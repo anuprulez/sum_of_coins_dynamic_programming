@@ -1,8 +1,6 @@
 //sum_of_coins_dynamic_programming
 //Dynamic Programming
 
-
-
 #include <stdlib.h>
 #include <iostream>
 #include <limits.h>
